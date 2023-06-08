@@ -57,3 +57,6 @@ Nota: Es posible que algunas de estas URL no estén disponibles dependiendo de l
 5. Puedes detener los contenedores en cualquier momento ejecutando:
 
 docker-compose down
+
+
+**Nota:** Explicacion detallada del proceso disponible en el siguiente video: https://youtu.be/mHP-Ke95Ilo
